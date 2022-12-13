@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+.main {
+margin: auto;
+width: 80%;
+height: 600px;
+background-color: red;
+}
+
+.gora {
+background-color: #808080;
+float: left;
+height: 25%;
+width: 75%;
+}
+
+.goraP {
+background-color: #9d9d9d;
+float: right;
+height: 25%;
+width: 25%;
+}
+.goraP img{
+width: 90%;
+height: 90%;
+margin: 3%;
+border: 10
+}
+.srodek {
+background-color: #bbbbbb;
+float: left;
+height: 500px;
+width: 25%;
+}
+
+.srodekP {
+background-color: #d8d8d8;
+float: right;
+height: 500px;
+width: 75%;
+}
+
+.dol {
+background-color: #808080;
+float: left;
+height: 25%;
+width: 25%;
+}
+
+.dolP {
+background-color: #9d9d9d;
+float: right;
+height: 25%;
+width: 75%;
+}
