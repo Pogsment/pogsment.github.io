@@ -1,0 +1,158 @@
+.cll{
+    clear: both;
+}
+
+section {
+    margin: 10px;
+    padding: 20px;
+    clear: both;
+}
+
+.z1 .a {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z1 .b {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z1 .c {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z1 .d {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .a {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .b {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .c {
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .d {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .e {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z3 .f {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .g {
+    background-color: purple;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .h {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z2 .i {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.z3 .a {
+    background-color: green;
+    width: 250px;
+    height: 200px;
+    padding: 30px;
+}
+
+.z3 .b {
+    background-color: blue;
+    width: 250px;
+    height: 200px;
+}
+
+.z3 .c {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+}
+
+.z4 .a {
+    position: absolute;
+    left: 50px;
+    top: 600px;
+    background-color: grey;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.z4 .b {
+    position: absolute;
+    left: 70px;
+    top: 620px;
+    background-color: red;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.z4 .c {
+    position: absolute;
+    left: 90px;
+    top: 640px;
+    background-color: pink;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
