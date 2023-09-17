@@ -32,3 +32,22 @@ position: absolute
 left: 200px;
 top: 200px; z-index: 5;
 }
+#as:active {
+    z-index: 6;
+}
+
+#krol:active {
+    z-index: 6;
+}
+
+#dama:active {
+    z-index: 6;
+}
+
+#walet:active {
+    z-index: 6;
+}
+
+#rew:active {
+    z-index: 6;
+}
