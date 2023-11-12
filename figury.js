@@ -42,3 +42,4 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.dot5').style.opacity = 0;
         document.querySelector('.dot6').style.opacity = 0;
     })
+})
